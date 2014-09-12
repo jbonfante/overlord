@@ -37,3 +37,5 @@ build/
 
 # bower files
 /bower_components/
+.idea/
+*.iml
